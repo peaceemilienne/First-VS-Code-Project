@@ -76,7 +76,7 @@ html {
     justify-content: center;
     align-items: center;
     height: 50rem;
-    background: url("./resources/images/stock-photo-blue-scandinavian-bedroom-with-three-vertical-frames-in-bright-design-poster-mock-up-on-white-wall-1909444576.jpg") center center no-repeat;
+    background: url("../images/stock-photo-blue-scandinavian-bedroom-with-three-vertical-frames-in-bright-design-poster-mock-up-on-white-wall-1909444576.jpg") center center no-repeat;
     background-size: cover;
     color: #ffb78c;
 }
