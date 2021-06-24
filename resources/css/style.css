@@ -51,6 +51,7 @@ html {
 .header li {
     display: inline;
     padding-right: 2.22rem;
+    transition: all 0.3s ease-out;
 }
 
 .header li a {
