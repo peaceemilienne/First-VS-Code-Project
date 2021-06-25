@@ -51,12 +51,16 @@ html {
 .header li {
     display: inline;
     padding-right: 2.22rem;
-    transition: all 0.3s ease-out;
 }
 
 .header li a {
     text-decoration: none;
     color: #4a4a4a;
+}
+
+.header li a:hover {
+    transition: all 0.3s ease-out;
+    transform: rotate(6deg);
 }
 
 @media only screen and (max-width: 550px) {
@@ -114,6 +118,7 @@ html {
     }
     .banner h1 {
         font-size: 6rem;
+        width: auto;
     }
 }
 
