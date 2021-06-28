@@ -118,7 +118,12 @@ html {
     }
     .banner h1 {
         font-size: 6rem;
-        width: auto;
+    }
+}
+
+@media only screen and(max-width: 480px) {
+    .banner h1 {
+        font-size: 2rem;
     }
 }
 
